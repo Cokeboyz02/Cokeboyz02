@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Nakul! 👋
 
-<!--
-**Cokeboyz02/Cokeboyz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Developer and Tech Enthusiast. I love building smart solutions, exploring microcontrollers, and creating engaging web experiences.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+- 🔭 I’m currently working on customized hardware systems and IoT integration.
+- 🌱 I’m deeply exploring embedded systems, firmware troubleshooting, and front-end web development.
+- ⚡ Fun fact: I enjoy music production and writing creative lyrics in my free time.
+
+
+🛠️ My Toolbox (Tech Stack)
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, JavaScript, HTML5, CSS3 |
+| **Hardware/IoT** | ESP32, NFC Modules (PN532), Bluetooth, Sensors |
+| **Tools & Platforms** | Git, GitHub, VS Code, GitHub Pages |
+
+---
+
+📊 GitHub Stats
+
+![Nakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cokeboyz02&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cokeboyz02&layout=compact&theme=radial)
+
+---
+
+### 🤝 Connect with me
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [Portfolio/Website](YOUR_PORTFOLIO_OR_GITHUB_PAGES_URL)
