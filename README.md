@@ -20,9 +20,9 @@ I am a passionate Developer and Tech Enthusiast. I love building smart solutions
 ---
 ### 📊 GitHub Stats
 
-![Nakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cokeboyz02&show_icons=true&theme=radial&count_private=true)
+![Nakul's GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Cokeboyz02&show_icons=true&theme=radial)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cokeboyz02&layout=compact&theme=radial)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Cokeboyz02&layout=compact&theme=radial)
 
 ---
 
