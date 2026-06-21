@@ -20,11 +20,6 @@ I am a passionate Developer and Tech Enthusiast. I love building smart solutions
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cokeboyz02&theme=github_dark
-
----
 
 ### 📊 Profile Summary
 
